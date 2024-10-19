@@ -1,0 +1,3 @@
+[submodule "lib/SAPEICore"]
+	path = lib/SAPEICore
+	url = git@github.com:ffpp2003/SAPEICore.git
